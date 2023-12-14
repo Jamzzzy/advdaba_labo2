@@ -128,6 +128,8 @@ I had an issue with my device storage and could not load the 5 millions entries 
 
 Somehow after using :auto and the transactions, I lost the timestamp displayed as an output after the command succeeds.
 
+![output](/home/jamal/master/AdvDaba_TP1/tp2/labo/img/output.png)
+
 I spent a long time trying to deal with the format of the data and the cypher script that I did not have time to deploy everything on k8s.
 
 ## References
