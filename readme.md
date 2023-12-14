@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Travail de Jamal Albadri & Guillaume Pin
+
 ### Neo4j
 
 user: neo4j
